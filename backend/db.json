@@ -1,0 +1,19 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "canetas",
+            "preco": 50.02 
+        },
+        {
+            "id": 2,
+            "nome": "mac",
+            "preco": 15000.02 
+        },
+        {
+            "id": 2,
+            "nome": "Iphone",
+            "preco": 5000.00
+        }
+    ]
+}
